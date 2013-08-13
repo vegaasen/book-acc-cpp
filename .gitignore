@@ -1,3 +1,9 @@
+# Project-files
+*/out/*
+/out
+out/
+*.out
+
 # Compiled Object files
 *.slo
 *.lo
